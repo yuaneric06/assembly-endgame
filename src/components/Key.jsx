@@ -1,5 +1,4 @@
 export default function Key(props) {
-    console.log(props.disabled);
     return (
         <button 
             onClick={props.handleClick}
